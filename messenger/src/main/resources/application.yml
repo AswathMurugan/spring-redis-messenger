@@ -1,0 +1,9 @@
+server:
+  port: 5000
+
+websocket:
+  topic:
+    closed:
+      check: 20000
+      intial:
+        check: 20000
